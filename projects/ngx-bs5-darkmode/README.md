@@ -18,4 +18,4 @@ It can be customized via the `[darkIcon]` and `[lightIcon]` attributes.
 
 `[darkIcon]` ... the icon that is displayed in light mode
 <br />
-`[lightIcon]` ... the icon that is displayed in light mode
+`[lightIcon]` ... the icon that is displayed in dark mode
