@@ -1,6 +1,6 @@
 # NgxBs5Darkmode
 
-An Angular Wrapper for the new dark mode from Bootstrap 5.3.0-alpha1
+An Angular Wrapper for the new dark mode from Bootstrap 5.3.0
 
 ## Usage
 Just install the module via npm
